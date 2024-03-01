@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/its-dhruv-jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="its-dhruv-jindal" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/dhruv-jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dhruv-jindal" height="30" width="40" /></a>
-<a href="https://kaggle.com/its_dhruv_jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="its_dhruv_jindal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23510396/dhruv-jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23510396/dhruv-jindal" height="30" width="40" /></a>
+<a href="https://kaggle.com/itsdhruvjindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="itsdhruvjindal" height="30" width="40" /></a>
 <a href="https://instagram.com/its_dhruv_jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_dhruv_jindal" height="30" width="40" /></a>
 <a href="https://discord.gg/its_dhruv_jindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="its_dhruv_jindal" height="30" width="40" /></a>
 </p>
