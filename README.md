@@ -33,7 +33,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=its-dhruv-jindal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=its-dhruv-jindal&label=Profile%20Views&color=9&icon=5&pretty=false" />
+</a>
+<br>
 
 
 
