@@ -23,10 +23,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-dhruv-jindal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=its-dhruv-jindal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=its-dhruv-jindal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
@@ -37,7 +33,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=its-dhruv-jindal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=its-dhruv-jindal&label=Profile%20views&color=0e75b6&style=flat" alt="its-dhruv-jindal" /> </p>
+
+
 
 
 
