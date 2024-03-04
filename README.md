@@ -1,8 +1,14 @@
+![logo](https://github.com/its-dhruv-jindal/its-dhruv-jindal/blob/main/github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Dhruv Jindal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
+
+
+
 # 💫 About Me:
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 🔭 I’m currently working on<br>
 👯 I’m looking to collaborate on<br>
 🤝 I’m looking for help with<br>
@@ -10,6 +16,7 @@
 💬 Ask me about<br>
 📫 How to reach me djindal015@gmail.com <br>
 ⚡ Fun fact
+
 
 
 ## 🌐 Socials:
