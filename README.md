@@ -8,7 +8,7 @@
 🤝 I’m looking for help with<br>
 🌱 I’m currently learning<br>
 💬 Ask me about<br>
-📫 How to reach me djindal015@gmail.com
+📫 How to reach me djindal015@gmail.com <br>
 ⚡ Fun fact
 
 
