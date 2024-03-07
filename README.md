@@ -19,14 +19,13 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/its-dhruv-jindal){:target="_blank"}
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23510396){:target="_blank"}
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA015?logo=leetcode&logoColor=white)](https://leetcode.com/its_dhruv_jindal){:target="_blank"}
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5TXQwReekq){:target="_blank"}
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_dhruv_jindal){:target="_blank"}
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Dhruv.jindal.50951){:target="_blank"}
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/djindal015){:target="_blank"}
-[Visit my Pinterest profile](https://pinterest.com/djindal015){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/its-dhruv-jindal)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23510396)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA015?logo=leetcode&logoColor=white)](https://leetcode.com/its_dhruv_jindal)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5TXQwReekq)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_dhruv_jindal)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Dhruv.jindal.50951)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/djindal015)
 
 
 
