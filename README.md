@@ -48,12 +48,12 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=its-dhruv-jindal&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=its-dhruv-jindal&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-dhruv-jindal&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dhruvjdev&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvjdev&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvjdev&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=its-dhruv-jindal&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=dhruvjdev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 ### ✍️ Random Dev Quote
@@ -61,11 +61,11 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=its-dhruv-jindal&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=dhruvjdev&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=its-dhruv-jindal&label=Profile%20Views&color=9&icon=5&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=dhruvjdev&label=Profile%20Views&color=9&icon=5&pretty=false" />
 </a>
 
 <br>
