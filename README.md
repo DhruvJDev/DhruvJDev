@@ -36,11 +36,15 @@
 
 
 <p align="left">
-<a href="https://linkedin.com/in/karan-sehgal-967802225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhruvjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/dhruvjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet-code" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/dhruvjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeks-for-geeks" height="30" width="40" /></a>
   <a href="mailto:dhruvjindal.dev@gmail.com" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail" height="30" width="40" />
+</a>
+  
+  <a href="https://dhruvjdev.vercel.app" target="_blank">
+  <span align="center" height="500"> 🌐 </span>
 </a>
 </p>
 
