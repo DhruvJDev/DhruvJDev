@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Dhruv Jindal</h1>
 
 
-![logo](banner.png)
+![logo](/assets/banner.png)
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dhruvjdev&label=Profile%20Views&color=0e75b6&style=flat" alt="loading" /> </p>
 
 
 ## 💫 About Me:
 
-<img align="right" alt="Coding" width="310" height="210" src="https://github.com/DhruvJDev/DhruvJDev/blob/main/coding.gif">
+<img align="right" alt="Coding" width="310" height="210" src="assets/coding.gif">
 
 - 🔭 I’m currently working on to up my skill's more. <br>
 - 👯 I’m looking to projects in Web Front-End Development <br>
@@ -37,14 +37,13 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/dhruvjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/dhruvjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leet-code" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/dhruvjdev" target="blank"><img align="center" src="assets/leetcode.png" alt="leet-code" height="40" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/dhruvjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeks-for-geeks" height="30" width="40" /></a>
   <a href="mailto:dhruvjindal.dev@gmail.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail" height="30" width="40" />
 </a>
-  
   <a href="https://dhruvjdev.vercel.app" target="_blank">
-  <span align="center" height="500"> 🌐 </span>
+  <img align="center" src="assets/portfolio.png" alt="gmail" height="40" width="40" />
 </a>
 </p>
 
