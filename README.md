@@ -126,8 +126,8 @@
 <br>
 
 
-![](https://github-contributor-stats.vercel.app/api?username=dhruvjdev&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
+![](https://github-contributor-stats.vercel.app/api?username=dhruvjdev&limit=5&theme=radical&combine_all_yearly_contributions=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dhruvjdev&theme=dark&hide_border=false)<br/>
 </details>
 
   <details>	
@@ -138,4 +138,3 @@
 [![DhruvJDev](https://github-readme-activity-graph.vercel.app/graph?username=dhruvjdev&bg_color=000000&color=ffea00&line=00ebbc&point=2b00ff&area=true&hide_border=true)](https://github.com/dhruvjdev)
 
 </details>
-
