@@ -9,7 +9,7 @@
 
 ## 💫 About Me:
 
-<img align="right" alt="Coding" width="310" height="210" src="assets/coding.gif">
+<img align="right" alt="Coding" width="310" height="210" src="assets/set-up.gif">
 
 - 🔭 I’m currently working on to up my skill's more. <br>
 - 👯 I’m looking to projects in Web Front-End Development <br>
