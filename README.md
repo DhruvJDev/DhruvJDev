@@ -24,17 +24,6 @@
 
 ## 🌐 Socials:
 
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/its-dhruv-jindal)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23510396)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA015?logo=leetcode&logoColor=white)](https://leetcode.com/its_dhruv_jindal)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/5TXQwReekq)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_dhruv_jindal)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Dhruv.jindal.50951)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/djindal015)
--->
-
-
 <p align="left">
 <a href="https://linkedin.com/in/dhruvjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/dhruvjdev" target="blank"><img align="center" src="assets/leetcode.png" alt="leet-code" height="40" width="40" /></a>
@@ -46,42 +35,11 @@
   <img align="center" src="assets/portfolio.png" alt="gmail" height="40" width="40" />
 </a>
 </p>
-
-<!--
-<div align="left">
-  
-<a target="_blank" href="https://linkedin.com/in/dhruvjdev">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
-</a>
-
-<a target="_blank" href="https://discord.com/users/YOUR_DISCORD_ID">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
-</a>
-
-<a target="_blank" href="https://instagram.com/its_dhruv_jindal">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" />
-</a>
-
-<a target="_blank" href="mailto:dhruvjindal.dev@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo" />
-</a>
-
---!>
-
-
-
-  <!--
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-  -->
 </div>
 
 
  <br>
 
-
-###
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
