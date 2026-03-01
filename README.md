@@ -52,7 +52,7 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I Code with</b>
 
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,nextjs,tailwind,figma,notion,markdown,nodejs,git,github,vercel,python,c&theme=dark&titles=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,nextjs,tailwind,figma,notion,markdown,nodejs,git,github,vercel,python,c,cpp,mysql&theme=dark&titles=true)
 
 
 ### ✍️ Random Dev Quote
