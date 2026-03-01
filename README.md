@@ -21,31 +21,16 @@
 - ⚡ Fun fact: I'll know cooking litel bit but I don't how it make so tasty.
 
 
-
+<!-- Social Connecton -->
 ## 🌐 Socials:
-
-<p align="left">
-<a href="https://linkedin.com/in/dhruvjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linked-in" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/dhruvjdev" target="blank"><img align="center" src="assets/leetcode.png" alt="leet-code" height="40" width="40" /></a>
-</a>
-  <a href="mailto:dhruvjindal.dev@gmail.com" target="_blank">
-<img align="center" src="assets/X.png" alt="gmail" height="30" width="30" />
-</a>
-  <a href="https://auth.geeksforgeeks.org/user/dhruvjdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="geeks-for-geeks" height="30" width="40" /></a>
-  <a href="mailto:dhruvjindal.dev@gmail.com" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail" height="30" width="40" />
-  <a href="https://dhruvjdev.vercel.app" target="_blank">
-  <img align="center" src="assets/portfolio.png" alt="gmail" height="40" width="40" />
-</a>
-</p>
-</div>
+[![LinkdIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark&titles=true)](https://linkedin.com/in/dhruvjdev)
+[![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode&theme=dark&titles=true)](https://www.leetcode.com/dhruvjdev)
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark&titles=true)](https://github.com/DhruvJDev)
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark&titles=true)](mailto:dhruvjindal.dev@gmail.com)
 
 
- <br>
-
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+<!--
+#  💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -59,6 +44,15 @@
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+
+-->
+
+<!-- Programming Languages -->
+# <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I Code with</b>
+
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,nextjs,tailwind,figma,notion,markdown,nodejs,git,github,vercel,python,c&theme=dark&titles=true)
 
 
 ### ✍️ Random Dev Quote
