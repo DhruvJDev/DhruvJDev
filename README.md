@@ -27,7 +27,7 @@
 [![LeetCode](https://go-skill-icons.vercel.app/api/icons?i=leetcode&theme=dark&titles=true)](https://www.leetcode.com/dhruvjdev)
 [![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark&titles=true)](https://github.com/DhruvJDev)
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark&titles=true)](mailto:dhruvjindal.dev@gmail.com)
-
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=portfolio&theme=dark&titles=true)](https://dhruvjdev.vercel.app)
 
 <!--
 #  💻 Tech Stack:
